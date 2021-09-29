@@ -1,0 +1,13 @@
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\obj\Debug\netcoreapp3.1\UsandoSwitchCaseMes.csprojAssemblyReference.cache
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\obj\Debug\netcoreapp3.1\UsandoSwitchCaseMes.AssemblyInfoInputs.cache
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\obj\Debug\netcoreapp3.1\UsandoSwitchCaseMes.AssemblyInfo.cs
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\obj\Debug\netcoreapp3.1\UsandoSwitchCaseMes.csproj.CoreCompileInputs.cache
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\bin\Debug\netcoreapp3.1\UsandoSwitchCaseMes.exe
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\bin\Debug\netcoreapp3.1\UsandoSwitchCaseMes.deps.json
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\bin\Debug\netcoreapp3.1\UsandoSwitchCaseMes.runtimeconfig.json
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\bin\Debug\netcoreapp3.1\UsandoSwitchCaseMes.runtimeconfig.dev.json
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\bin\Debug\netcoreapp3.1\UsandoSwitchCaseMes.dll
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\bin\Debug\netcoreapp3.1\UsandoSwitchCaseMes.pdb
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\obj\Debug\netcoreapp3.1\UsandoSwitchCaseMes.dll
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\obj\Debug\netcoreapp3.1\UsandoSwitchCaseMes.pdb
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoSwitchCaseMes\obj\Debug\netcoreapp3.1\UsandoSwitchCaseMes.genruntimeconfig.cache
